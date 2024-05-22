@@ -14,6 +14,7 @@
 		495474702BFE2A6500D72C1C /* AlbertoSoundBoard2.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 4954746E2BFE2A6500D72C1C /* AlbertoSoundBoard2.xcdatamodeld */; };
 		495474722BFE2A6800D72C1C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 495474712BFE2A6800D72C1C /* Assets.xcassets */; };
 		495474752BFE2A6800D72C1C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 495474732BFE2A6800D72C1C /* LaunchScreen.storyboard */; };
+		4954747D2BFE2BA000D72C1C /* SoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4954747C2BFE2BA000D72C1C /* SoundViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		495474712BFE2A6800D72C1C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		495474742BFE2A6800D72C1C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		495474762BFE2A6800D72C1C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4954747C2BFE2BA000D72C1C /* SoundViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				495474672BFE2A6500D72C1C /* SceneDelegate.swift */,
 				495474692BFE2A6500D72C1C /* ViewController.swift */,
 				4954746B2BFE2A6500D72C1C /* Main.storyboard */,
+				4954747C2BFE2BA000D72C1C /* SoundViewController.swift */,
 				495474712BFE2A6800D72C1C /* Assets.xcassets */,
 				495474732BFE2A6800D72C1C /* LaunchScreen.storyboard */,
 				495474762BFE2A6800D72C1C /* Info.plist */,
@@ -145,6 +148,7 @@
 				495474662BFE2A6500D72C1C /* AppDelegate.swift in Sources */,
 				495474682BFE2A6500D72C1C /* SceneDelegate.swift in Sources */,
 				495474702BFE2A6500D72C1C /* AlbertoSoundBoard2.xcdatamodeld in Sources */,
+				4954747D2BFE2BA000D72C1C /* SoundViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
